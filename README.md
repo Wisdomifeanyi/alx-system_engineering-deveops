@@ -1,2 +1,2 @@
-# alx-system_engineering-deveops
+# alx-system_engineering-devops
 Currently working directory 
